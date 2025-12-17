@@ -54,7 +54,7 @@ The model successfully grouped customers into multiple clusters based on income 
 
 ---
 
-## 🔥 Extra Showcase (Optional)
+## 🔥 Extra Showcase 
 
 In addition to the notebook implementation, this project is also developed as a **Flask-based web application** using VS Code.
 
